@@ -4,7 +4,10 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("'Hello Molaleni'" , '"Hello Lala Molaleni"');
+console.log("'Hello Molaleni'" + '"Hello Lala Molaleni"');
+console.log("'Hello Molaleni with no semi-colon'")
+//console.log "with not parentheses";
 
 /*  
 Next, PLAY! 
